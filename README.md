@@ -36,4 +36,6 @@ By default:
   * Quality = 20
   * Noise = 5
   
+  
+## Results
 As result you will obtain 2 plots (without drawen threshold and with it) and value which indicating genome size.
